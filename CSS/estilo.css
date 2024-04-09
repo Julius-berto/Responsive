@@ -1,0 +1,72 @@
+*{
+    margin-bottom: 40px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    max-width: 1200px;
+    background: #000;
+    margin: auto;
+    font-size: calc(1em, 3vw, 3vw);
+}
+
+h1{
+    color: #f8af30;
+    font-family: 'Bungee spice';
+}
+
+h6{
+    color: #faed00;
+    font-family: 'Bebas Neue';
+
+}
+
+p{
+    color: #f8af50;
+    font-family: 'Chivo Mono';
+}
+
+#container{
+    padding: 50px;
+    width: 75vw;
+    max-width: 1000px;
+    min-width: 320px;
+    margin: auto;
+}
+
+.caso1{
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px rgba(240, 159, 8, 0.938);
+}
+
+.caso2{
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px rgba(240, 159, 8, 0.938);
+}
+
+.caso3{
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px 30px rgba(240, 159, 8, 0.938);
+}
+
+.caso4{
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px rgb(240, 159, 8) inset;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+    color: #a5fa06;
+    font-size: .5em;
+}
